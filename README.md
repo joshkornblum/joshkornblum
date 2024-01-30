@@ -7,7 +7,7 @@ I'm all about DevOps, Cloud Architecture, and AI-Driven Innovation. With over a 
 - 👯 **Collaboration:** Let's join forces! I'm on the lookout for innovative projects and like-minded tech enthusiasts.
 - 🤔 **Seeking help:** Got a challenge in cloud migration or automation? I’m your guy. Let's brainstorm together.
 - 💬 **Ask me about:** Anything from Azure AI, AWS, and GCP tools to improving server infrastructure with Terraform and Jenkins.
-- 📫 **How to reach me:** Drop an email at josh.kornblum1@gmail.com or ping me at 87 Azalea Terrace, Fort Thomas, KY 41075.
+- 📫 **How to reach me:** Drop an email at josh.kornblum1@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** When I'm not geeking out, I'm rock climbing, snowboarding, or jamming on my guitar. Life's an adventure!
 
